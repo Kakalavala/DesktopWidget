@@ -1,0 +1,13 @@
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\bin\Debug\DesktopWidget.exe.config
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\bin\Debug\DesktopWidget.exe
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\bin\Debug\DesktopWidget.pdb
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.csprojResolveAssemblyReference.cache
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.Properties.Resources.resources
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.csproj.GenerateResource.cache
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.csproj.CoreCompileInputs.cache
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.exe
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.pdb
+c:\users\kakalavala\documents\visual studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.DesktopWidget.resources
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.SettingsForm.resources
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.DisplaySelector.resources
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Debug\DesktopWidget.AdvancedSettings.resources

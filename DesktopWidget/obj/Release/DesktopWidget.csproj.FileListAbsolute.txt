@@ -1,0 +1,13 @@
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\bin\Release\DesktopWidget.exe.config
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\bin\Release\DesktopWidget.exe
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\bin\Release\DesktopWidget.pdb
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.DesktopWidget.resources
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.Properties.Resources.resources
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.SettingsForm.resources
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.csproj.GenerateResource.cache
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.csproj.CoreCompileInputs.cache
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.exe
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.pdb
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.csprojResolveAssemblyReference.cache
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.DisplaySelector.resources
+C:\Users\Kakalavala\Documents\Visual Studio 2017\Projects\DesktopWidget\DesktopWidget\obj\Release\DesktopWidget.AdvancedSettings.resources
